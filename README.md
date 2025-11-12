@@ -18,3 +18,8 @@ README.md 파일 수정 예제
 
 - navigation.md 파일 추가
 - 로그인, 로그아웃 추가
+
+
+## 푸터 추가
+
+- footer.md 파일 추가
