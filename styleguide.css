@@ -1,0 +1,72 @@
+:root {
+  --grayscaletitle-active: rgba(0, 0, 0, 1);
+  --grayscalebody: rgba(51, 51, 51, 1);
+  --grayscalelabel: rgba(85, 85, 85, 1);
+  --grayscaleplacehoder: rgba(136, 136, 136, 1);
+  --grayscaleborder: rgba(222, 222, 222, 1);
+  --grayscaleline: rgba(224, 207, 186, 1);
+  --grayscaleinput-bg: rgba(249, 249, 249, 1);
+  --grayscalebackground: rgba(248, 240, 231, 1);
+  --grayscaleoff-white: rgba(252, 252, 252, 1);
+  --primarydefault: rgba(221, 133, 96, 1);
+  --primarydark: rgba(168, 113, 90, 1);
+  --title-font-family: "Tenor Sans", Helvetica;
+  --title-font-weight: 400;
+  --title-font-size: 18px;
+  --title-letter-spacing: 4px;
+  --title-line-height: 40px;
+  --title-font-style: normal;
+  --price-font-family: "Tenor Sans", Helvetica;
+  --price-font-weight: 400;
+  --price-font-size: 15px;
+  --price-letter-spacing: 0px;
+  --price-line-height: 24px;
+  --price-font-style: normal;
+  --body-m-font-family: "Tenor Sans", Helvetica;
+  --body-m-font-weight: 400;
+  --body-m-font-size: 14px;
+  --body-m-letter-spacing: 0px;
+  --body-m-line-height: 24px;
+  --body-m-font-style: normal;
+  --sub-title-14px-font-family: "Tenor Sans", Helvetica;
+  --sub-title-14px-font-weight: 400;
+  --sub-title-14px-font-size: 14px;
+  --sub-title-14px-letter-spacing: 2px;
+  --sub-title-14px-line-height: 20px;
+  --sub-title-14px-font-style: normal;
+  --body-s-font-family: "Tenor Sans", Helvetica;
+  --body-s-font-weight: 400;
+  --body-s-font-size: 12px;
+  --body-s-letter-spacing: 0px;
+  --body-s-line-height: 18px;
+  --body-s-font-style: normal;
+  --body-l-font-family: "Tenor Sans", Helvetica;
+  --body-l-font-weight: 400;
+  --body-l-font-size: 16px;
+  --body-l-letter-spacing: 0px;
+  --body-l-line-height: 24px;
+  --body-l-font-style: normal;
+  --sub-title-16px-font-family: "Tenor Sans", Helvetica;
+  --sub-title-16px-font-weight: 400;
+  --sub-title-16px-font-size: 16px;
+  --sub-title-16px-letter-spacing: 2px;
+  --sub-title-16px-line-height: 24px;
+  --sub-title-16px-font-style: normal;
+  --shadow:
+    0px 2.767256498336792px 2.2138051986694336px 0px rgba(0, 0, 0, 0.02), 0px 6.650102138519287px 5.32008171081543px 0px rgba(
+      0,
+      0,
+      0,
+      0.03
+    ), 0px 12.521552085876465px 10.017241477966309px 0px rgba(0, 0, 0, 0.04), 0px 22.3363094329834px 17.869047164916992px 0px rgba(
+      0,
+      0,
+      0,
+      0.04
+    ), 0px 41.777610778808594px 33.422088623046875px 0px rgba(0, 0, 0, 0.05), 0px 100px 80px 0px rgba(
+      0,
+      0,
+      0,
+      0.07
+    );
+}
